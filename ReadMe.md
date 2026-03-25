@@ -49,9 +49,9 @@ Sql injection · IDOR · SSRF · SSTI · LFI · RFI · Command Injection · Auth
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Aren-Dev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=0xAdham1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Aren-Dev1&theme=dark&hide_border=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=0xAdham1&theme=dark&hide_border=true)
 
 ---
 
