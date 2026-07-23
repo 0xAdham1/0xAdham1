@@ -13,7 +13,7 @@ I play CTFs and machines on HackTheBox and TryHackMe, focusing on web challenges
 ## Skills
 
 **Web Application Security**
-Sql injection · IDOR · SSRF · SSTI · LFI · RFI · Command Injection · Authentication & Access Control Testing · API Testing · Recon & Enumeration · LLM hacking · Oauth hacking · OWASP top 10
+Sql injection · IDOR · SSRF · SSTI · LFI · RFI · Command Injection · Authentication & Access Control Testing · API Testing · Recon & Enumeration · · Oauth hacking · OWASP top 10
 
 **Languages**
 
